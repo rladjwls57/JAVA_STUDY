@@ -22,5 +22,5 @@ public class AnimalTest {
 		bird.walk();
 		bird.fly();
 		bird.sing();
-	}
+	} 
 }
